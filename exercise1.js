@@ -45,7 +45,36 @@ var customersObj = {
         'balance': 4562647745
     }
 };
-
+var getAllCustomers = {
+  'First': 'Ichigo',
+  'Last': 'Kurosaki',
+  'customerID':23567,
+  'balance':1234.56
+}
+  
+  var getAllCustomers = {
+  'First': 'Gin',
+  'Last': 'Ichimaru',
+  'customerID':1234,
+  'balance':1234.56
+  }
+   var getAllCustomers = {
+  'First': 'Shunsui',
+  'Last': 'Kyoraku',
+  'customerID':1531,
+  'balance':1234.56
+  }
+    var getAllCustomers = {
+  'First': 'Kisuke',
+  'Last': 'Urahara',
+  'customerID':543,
+  'balance':1234.56
+  }
+     var getAllCustomers = {
+  'First': 'Ulquiorra',
+  'customerID':543,
+  'balance':1234.56
+  }
 
 
 
