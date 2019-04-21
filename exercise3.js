@@ -55,6 +55,31 @@ var customersObj = {
     }
 };
 
+var resetCustomers = {
+  'first': 'Gin',
+  'last': 'Ichimaru',
+  'customerID': 100
+}
+var resetCustomers = {
+  'first': 'Ichigo',
+  'last': 'Kurosaki',
+  'customerID': 101
+}
+var resetCustomers = {
+  'first': 'Kisuke',
+  'last': 'Urahara',
+  'customerID': 102
+}
+var resetCustomers = {
+  'first': 'Shinsui',
+  'last': 'Kyoraku',
+  'customerID': 103
+}
+var resetCustomers = {
+  'first': 'Ulquiorra',
+  'last': 'Cifer',
+  'customerID': 104
+}
 
 
 
